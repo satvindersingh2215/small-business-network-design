@@ -39,3 +39,7 @@ Connectivity and configuration tests will be documented as they are completed.
 - Apply IP addressing and default gateway settings.
 - Troubleshoot connectivity between network segments.
 - Explore network segmentation and security practices.
+
+- ## Network Topology
+
+![Small business network topology](./network-topology.png)
