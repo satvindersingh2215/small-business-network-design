@@ -26,7 +26,7 @@ This project demonstrates a small-business network with separate departmental VL
 
 ## Project Files
 
-- `.pkt` — Packet Tracer network simulation
+- [Download the Packet Tracer network simulation](./SmallOffice_NetworkDesign.pkt)
 
 ## Verification
 
