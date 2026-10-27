@@ -47,9 +47,10 @@ During testing, I identified and resolved network connectivity issues by:
 - Successful connectivity to the network printer from within the Finance VLAN and from HR.
 - Verified trunk status and VLAN membership using Cisco IOS show commands.
 
+
 ## Project Files
 
-- `Small_Business_Network_Design.pkt` — Packet Tracer lab file, if included in the repository.
+- [Download the Cisco Packet Tracer project](./Small_Business_Network_Design.pkt)
 
 ## Learning Outcomes
 
